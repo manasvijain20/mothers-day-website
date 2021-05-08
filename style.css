@@ -1,0 +1,28 @@
+#title{
+    font-family: 'Pacifico', cursive; 
+    font-size: 45px;
+    color: black;
+    
+}
+body{
+  background-image: url("bg2.jpg");
+  background-size: cover;
+}
+#Poem{
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+  display: none;
+}
+
+#first{
+  width: 630px;
+}
+#fourth{
+  width: 630px;
+}
+#second{
+  height: 500px;
+}
+#third{
+  height: 500px;
+}
